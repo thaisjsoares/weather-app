@@ -1,11 +1,10 @@
 # Weather App
 
 <div align="center">
-  ![project](src/assets/images/project.gif)
+  <img src="/src/assets/images/project.gif" alt="Gif of the project" />
+
+  This app was coded after watching [Tyler Potts](https://github.com/TylerPottsDev)' [tutorial](https://www.youtube.com/watch?v=JLc-hWsPTUY) on Youtube.
 </div>
-
-This app was coded after watching [Tyler Potts](https://github.com/TylerPottsDev)' [tutorial](https://www.youtube.com/watch?v=JLc-hWsPTUY) on Youtube.
-
 
 ## Technology
 
